@@ -1,70 +1,111 @@
-📑 Lab Report - ED21B014
-Merged Report of Lab 1 & Lab 2
-📌 Overview
-This repository contains a merged PDF report of Lab 1 and Lab 2, which focuses on statistical analysis, data visualization, and hypothesis testing using Python. The labs cover key topics such as mean and deviation calculations, covariance and correlation matrices, statistical hypothesis testing, and business recommendations based on analytical findings.
+# 📑 Lab Report - ED21B014  
+**Merged Report: Lab 1 & Lab 2**  
+*Author: Atharv Karkar*
 
-📂 Contents
-📖 Lab 1: Statistical Analysis & Data Visualization
-Lab 1 primarily focuses on statistical computations and visualizations, covering:
+---
 
-Mean and Deviation Calculations
+## 📌 Overview
 
-Computing sample mean for datasets
-Determining deviation vectors from mean and origin
-Scatter Plot & 3D Vector Representation
+This repository contains a **merged PDF report** combining **Lab 1** and **Lab 2** of the Statistical Analysis and Hypothesis Testing coursework. The labs focus on core concepts in **descriptive statistics**, **data visualization**, and **multivariate hypothesis testing** using Python. Key methods include mean and deviation analysis, cosine similarity, covariance and correlation matrices, **Hotelling's T² Test**, and **confidence intervals**, leading to **data-driven business recommendations**.
 
-Visualizing data points and sample mean
-Plotting deviation vectors in 3D space
-Cosine Similarity & Angle Computation
+---
 
-Finding Euclidean norms of deviation vectors
-Calculating cosine similarity and angle between vectors
-Covariance & Correlation Matrices
+## 📂 Contents
 
-Computing covariance matrix (Sn) and correlation matrix (R)
-Understanding how variables are related in a dataset
-Generalized Variance Calculation
+### 📖 Lab 1: Statistical Analysis & Data Visualization
 
-Computing determinant of covariance matrix to analyze data spread
-📖 Lab 2: Hypothesis Testing & Business Insights
-Lab 2 extends the analysis to multivariate statistical testing, including:
+Lab 1 explores foundational statistical methods and visual representations.
 
-Hotelling’s T² Test for Hypothesis Testing
+- **Mean and Deviation Calculations**
+  - Sample mean computation
+  - Deviation vectors from origin and mean
 
-Statistical inference to compare sample mean with company standards
-Constructing null and alternative hypotheses
-Evaluating whether data meets predefined benchmarks
-Confidence Interval Estimation
+- **Scatter Plots & 3D Visualization**
+  - Visualizing data points in 2D and 3D
+  - Highlighting sample mean and deviation vectors
 
-Calculating univariate and simultaneous confidence intervals
-Determining whether observed values deviate significantly from expectations
-Business Decision Recommendations
+- **Cosine Similarity & Angle Measurement**
+  - Calculating Euclidean norms
+  - Computing cosine similarity and angles between vectors
 
-Assessing key product attributes (Style, Comfort, Stability, Cushioning, Durability)
-Making recommendations for product improvements based on statistical results
-🛠 Technologies Used
-The labs use Python-based data science libraries for statistical computations and visualization:
+- **Covariance & Correlation Analysis**
+  - Constructing covariance matrix `Sn` and correlation matrix `R`
+  - Interpreting linear relationships between variables
 
-NumPy – Matrix computations & statistical analysis
-Matplotlib – Data visualization & plotting
-Seaborn – Statistical data visualization
-SciPy – Scientific computing & hypothesis testing
-Pandas – Data manipulation & tabular analysis
-📑 File Details
-ED21B014__Lab1_merged.pdf - Merged report combining both Lab 1 and Lab 2, including all analysis, computations, and visualizations.
-🔍 Key Findings
-The covariance and correlation analysis highlighted key relationships between variables.
-Cosine similarity and angle computations provided insights into vector orientations in multi-dimensional space.
-Hotelling’s T² test confirmed that some product features (e.g., Comfort, Style) fell below target standards.
-Business recommendations were formulated based on confidence interval analysis, suggesting targeted improvements.
-📌 Usage
-To access and review the analysis:
+- **Generalized Variance**
+  - Determinant of covariance matrix as a measure of data spread
 
-Clone this repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-repo-name.git
-Open ED21B014__Lab1_merged.pdf to view the full statistical analysis and conclusions.
-📬 Contact
-For any questions or further discussions, feel free to reach out to Atharv Karkar.
+---
+
+### 📖 Lab 2: Hypothesis Testing & Business Insights
+
+Lab 2 focuses on inferential statistics and actionable decision-making.
+
+- **Hotelling's T² Test**
+  - Testing sample mean against company standards
+  - Null vs. alternative hypothesis formulation
+  - Decision-making based on multivariate test results
+
+- **Confidence Interval Estimation**
+  - Univariate and simultaneous intervals
+  - Assessing deviation from expected values
+
+- **Business Recommendations**
+  - Evaluating performance metrics (Style, Comfort, Stability, Cushioning, Durability)
+  - Recommending targeted improvements based on statistical evidence
+
+---
+
+## 🛠 Technologies Used
+
+This project leverages Python's scientific and visualization libraries:
+
+- **NumPy** – Matrix operations and numerical computations  
+- **Pandas** – Data manipulation and analysis  
+- **Matplotlib** – 2D & 3D plotting and charting  
+- **Seaborn** – Enhanced statistical visualizations  
+- **SciPy** – Hypothesis testing and scientific analysis  
+
+---
+
+## 📑 File Details
+
+- **ED21B014__Lab1_merged.pdf**  
+  Contains the complete report for both Lab 1 and Lab 2, including explanations, formulas, visualizations, and business insights.
+
+---
+
+## 🔍 Key Findings
+
+- **Covariance and correlation matrices** revealed variable interdependencies.
+- **Cosine similarity and angle metrics** provided geometric insight into multidimensional deviation vectors.
+- **Hotelling's T² test** detected statistically significant deviations from the company's product benchmarks.
+- **Confidence intervals** were used to pinpoint underperforming product features.
+- **Business recommendations** suggested improvements in Style and Comfort to better meet expectations.
+
+---
+
+## 🚀 Usage
+
+To access the report and explore the statistical insights:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo-name.git
+   ```
+
+2. Open the merged PDF file:
+   ```
+   ED21B014__Lab1_merged.pdf
+   ```
+
+3. Review the analysis, visualizations, and conclusions.
+
+---
+
+## 📬 Contact
+
+For questions, feedback, or academic discussions, feel free to reach out to:
+
+**Atharv Karkar**  
+📧 [Insert email or GitHub profile if desired]
